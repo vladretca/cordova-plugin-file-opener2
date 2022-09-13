@@ -1,3 +1,9 @@
+# Fork's README
+
+This is a fork of [pwlin/cordova-plugin-file-opener2](https://github.com/pwlin/cordova-plugin-file-opener2) version `3.0.5`.
+
+The only modification is the removal of hardcoded permission `android.permission.REQUEST_INSTALL_PACKAGES`.
+
 # A File Opener Plugin for Cordova
 
 [![Latest Stable Version](https://img.shields.io/npm/v/cordova-plugin-file-opener2.svg)](https://www.npmjs.com/package/cordova-plugin-file-opener2) [![Total Downloads](https://img.shields.io/npm/dt/cordova-plugin-file-opener2.svg)](https://npm-stat.com/charts.html?package=cordova-plugin-file-opener2)
